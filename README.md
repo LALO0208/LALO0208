@@ -26,18 +26,19 @@ Me caracterizo por ser una persona proactiva, con capacidad de aprendizaje conti
 ## 
 <h3 align="center">Projects: </h3>
 
-<a href="https://github.com/Nneji123/Website-Blocker">
+<a href="https://github.com/LALO0208/Rick_and_morty_API">
 
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Website-Blocker&theme=tokyonight" />
+  <img align="center" src="" />
 
 </a>  
 
-<a href="https://github.com/Nneji123/Alien-Shooter">
+<a href="https://github.com/LALO0208/Pagina_Web">
 
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://web-qcl5.vercel.app/" />
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
+</a> 
+<a href="https://github.com/LALO0208/IA_IMAGE2">
+
+  <img align="center" src="" />
 
 </a> 
