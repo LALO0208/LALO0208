@@ -26,19 +26,16 @@ Me caracterizo por ser una persona proactiva, con capacidad de aprendizaje conti
 ## 
 <h3 align="center">Projects: </h3>
 
-<a href="https://github.com/LALO0208/Rick_and_morty_API">
+<p align="center">
+  <a href="https://github.com/LALO0208/Rick_and_morty_API">
+    <img src="https://img.shields.io/badge/Rick%20and%20Morty%20API-000?style=for-the-badge&logo=github"/>
+  </a>
 
-  <img align="center" src="" />
+  <a href="https://github.com/LALO0208/Pagina_Web">
+    <img src="https://img.shields.io/badge/Pagina%20Web-000?style=for-the-badge&logo=github"/>
+  </a>
 
-</a>  
-
-<a href="https://github.com/LALO0208/Pagina_Web">
-
-  <img align="center" src="https://web-qcl5.vercel.app/" />
-
-</a> 
-<a href="https://github.com/LALO0208/IA_IMAGE2">
-
-  <img align="center" src="" />
-
-</a> 
+  <a href="https://github.com/LALO0208/IA_IMAGE2">
+    <img src="https://img.shields.io/badge/IA%20IMAGE-000?style=for-the-badge&logo=github"/>
+  </a>
+</p>
